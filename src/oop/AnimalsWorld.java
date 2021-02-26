@@ -1,6 +1,10 @@
 package oop;
 
-public class App {
+import oop.Animals.Animal;
+import oop.Animals.Cat;
+import oop.Animals.Dog;
+
+public class AnimalsWorld {
     public static void main(String[] args) {
         /*
             PRZED URUCHOMIENIEM KLASY ZAIMPLEMENTUJ KONSTRUKTORY Z PARAMETREM!!

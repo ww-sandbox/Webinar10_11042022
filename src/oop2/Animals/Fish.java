@@ -1,6 +1,6 @@
-package oop2;
+package oop2.Animals;
 
-import oop.Animal;
+import oop.Animals.Animal;
 
 public class Fish extends Animal {
 
