@@ -5,4 +5,5 @@ public class OldBlackCat {
     OldBlackCat(String name){
      //   super(name);
     }
+//   Nie można rozszerzyć (dziedziczyć po) klasie oznaczonej jako 'final'
 }

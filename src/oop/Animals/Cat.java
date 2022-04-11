@@ -33,4 +33,9 @@ public class Cat extends Animal implements Petable{
     public void pet() {
         System.out.println("Karm mnie i głaskaj, ale tylko gdy chcę");
     }
+
+    public final void chaseMouse(){
+        System.out.println("Gonię mysz");
+    }
+//    Nie możemy nadpisać implementacji tej metody wewnątrz BlackCat - metod 'final'
 }
